@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ozi-adai
+- 👋 Hi, I’m @Excellent
 - 👀 I’m interested in ... Data science
 - 🌱 I’m currently learning ...jupyter notebook
 - 💞️ I’m looking to collaborate on ... Coach
